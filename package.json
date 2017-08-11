@@ -2,7 +2,8 @@
   "name": "vue-test",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "cd client && npm run build"
   },
   "author": "Yuhi Ishikura",
   "dependencies": {
