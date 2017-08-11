@@ -4,5 +4,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Yuhi Ishikura"
+  "author": "Yuhi Ishikura",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
