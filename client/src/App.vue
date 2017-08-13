@@ -9,6 +9,9 @@
                 <router-link to="/demo">/demo</router-link>
             </li>
             <li>
+                <router-link to="/counter">/counter</router-link>
+            </li>
+            <li>
                 <router-link to="/foo">/foo</router-link>
             </li>
             <li>
