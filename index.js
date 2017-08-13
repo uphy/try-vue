@@ -7,7 +7,7 @@ var server = app.listen(3000, function () {
 
 app.use(express.static('client'));
 
-app.get("/test", function (req, res, next) {
+app.get("/api/test", function (req, res, next) {
     res.json({
         "a": 1,
         "b": "123abc"
