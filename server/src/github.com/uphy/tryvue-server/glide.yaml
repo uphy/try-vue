@@ -1,0 +1,6 @@
+package: github.com/uphy/tryvue-server
+import:
+- package: github.com/labstack/echo
+  version: ^3.2.1
+  subpackages:
+  - middleware
